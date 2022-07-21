@@ -32,7 +32,7 @@ Reviewed: No
 
 神经网络中传递的张量数据，其维度通常记为[N, H, W, C]，其中N是batch_size，H、W是行、列，C是通道数。那么上式中BN的输入集合就是下图中蓝色的部分。
 
-![Untitled](Batch%20normalization%EF%BC%88%E6%89%B9%E5%BD%92%E4%B8%80%E5%8C%96%EF%BC%89%20704cf48e4f6a472d90abca45b157413e/Untitled%201.png)
+![Untitled](https://github.com/Sunnyio8/Machine-learning-studies/blob/main/images/Untitled%201.png)
 
 均值的计算，就是在一个批次内，将每个通道中的数字单独加起来，再除以N×H×W。可训练参数的维度等于张量的通道数，RGB通道分别需要两个参数，因此维度等于3
 
