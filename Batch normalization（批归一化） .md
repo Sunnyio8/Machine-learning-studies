@@ -26,7 +26,7 @@ Reviewed: No
 
 批归一化的核心公式：
 
-![Untitled](Batch%20normalization%EF%BC%88%E6%89%B9%E5%BD%92%E4%B8%80%E5%8C%96%EF%BC%89%20704cf48e4f6a472d90abca45b157413e/Untitled.png)
+![Untitled](https://github.com/Sunnyio8/Machine-learning-studies/blob/main/images/Untitled.png)
 
 ## ****BN中均值、方差通过哪些维度计算得到？****
 
