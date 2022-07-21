@@ -1,8 +1,5 @@
 # Batch normalization（批归一化）
 
-Class: interview
-Created: July 14, 2022 3:31 PM
-Reviewed: No
 
 ## BN的概念和作用
 
