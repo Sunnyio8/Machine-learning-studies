@@ -9,7 +9,7 @@ NMS全程为非极大值抑制，当目标检测网络产生输出后，单个�
 
 下图为NMS的使用效果：
 
-[https://camo.githubusercontent.com/60b1be397ce7bf654c5020e4255dab12562a9b12cd97ba1704d5d3d7effb078e/68747470733a2f2f692e6c6f6c692e6e65742f323032302f30352f31352f6774587251437677793235624f684d2e6a7067](https://camo.githubusercontent.com/60b1be397ce7bf654c5020e4255dab12562a9b12cd97ba1704d5d3d7effb078e/68747470733a2f2f692e6c6f6c692e6e65742f323032302f30352f31352f6774587251437677793235624f684d2e6a7067)
+[https://github.com/Sunnyio8/Machine-learning-studies/blob/main/images/QQ%E6%88%AA%E5%9B%BE20220721165834.png]
 
 NMS中的**IOU**（交并比）也是一个重要的函数
 
