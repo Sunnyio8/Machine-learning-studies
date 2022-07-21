@@ -1,7 +1,6 @@
 # NMS（非极大值抑制）
 
-Created: July 21, 2022 3:13 PM
-Reviewed: No
+
 
 ## NMS的原理和示例
 
@@ -9,7 +8,7 @@ NMS全程为非极大值抑制，当目标检测网络产生输出后，单个�
 
 下图为NMS的使用效果：
 
-![Untitled]()
+![Untitled](https://github.com/Sunnyio8/Machine-learning-studies/blob/main/images/QQ%E6%88%AA%E5%9B%BE20220721165834.png)
 
 NMS中的**IOU**（交并比）也是一个重要的函数
 
